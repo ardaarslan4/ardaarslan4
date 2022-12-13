@@ -5,12 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently working on Ford Motor Company.
+- 🌱 I’m currently learning Web Apps with Patika.dev & Ford Otosan Software Academy Program
+- 💬 Ask me about electrical vehicles, electrification, project management 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/aarsla20/">LinkedIn</a>
+<a href="ardaarslan4@gmailçcom/">Gmail</a>: ardaarslan4@gmail.com
+
+Robotics & AI are my field of interest.
+
+Let's gather the infos and reach the best version of us. 
+
+Languages: Python, C++
+
 -->
+
+
+
+
+                 
+
+                 
